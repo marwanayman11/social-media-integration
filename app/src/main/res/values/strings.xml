@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Social Media Integration</string>
+    <string name="onboarding">OnBoarding</string>
+    <string name="cont">Continue</string>
+    <!-- Facebook application ID and custom URL scheme (app ID prefixed by 'fb'). -->
+    <string name="facebook_application_id" translatable="false">703891851155664</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fb703891851155664</string>
+    <string name="facebook_client_token">f2ef1a83f17ef58effb79331f4917feb</string>
+    <string name="welcome">Don’t miss what’s happening</string>
+    <string name="welcome2">People on our app are the first to know.</string>
+    <string name="name">name</string>
+    <string name="email">email</string>
+    <string name="profile_picture">Profile picture</string>
+    <string name="details">Details</string>
+    <string name="logout">Logout</string>
+    <string name="delete_account">Delete account</string>
+</resources>
